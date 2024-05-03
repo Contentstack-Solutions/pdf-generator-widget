@@ -1,0 +1,15 @@
+{
+  "name": "marketplace-app-template",
+  "version": "1.0.0",
+  "description": "",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/contentstack-expert-services/marketplace-app-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/contentstack-expert-services/marketplace-app-template/issues"
+  },
+  "homepage": "https://github.com/contentstack-expert-services/marketplace-app-template#readme"
+}

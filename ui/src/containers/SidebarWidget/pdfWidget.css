@@ -1,0 +1,12 @@
+.Dropdown__header__value {
+    font-size: 10px;
+    height: 35px ;
+}
+
+.Select__value-container--custom {
+    align-items: center;
+}
+
+.Select__see-more-button {
+    align-items: center;
+}

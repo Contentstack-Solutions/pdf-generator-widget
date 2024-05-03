@@ -1,0 +1,16 @@
+{
+  "name": "marketplace-app-template-api",
+  "version": "1.0.0",
+  "description": "API for boiler plate app",
+  "main": "index.js",
+  "dependencies": {},
+  "scripts": {
+    "dev": "node server.js"
+  },
+  "author": "Contentstack",
+  "license": "ISC",
+  "devDependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.17.1"
+  }
+}
