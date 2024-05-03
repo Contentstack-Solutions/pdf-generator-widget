@@ -48,7 +48,7 @@
     "@babel/preset-typescript": "^7.16.0",
     "@types/html-to-pdfmake": "^2.4.0",
     "@types/pdfmake": "^0.2.2",
-    "react-scripts": "4.0.3"
+    "react-scripts": "5.0.1"
   },
   "description": "The POC is to create the PDF and upload it as an asset in the CMS.",
   "author": "APAC Developer Team | TSO India"
